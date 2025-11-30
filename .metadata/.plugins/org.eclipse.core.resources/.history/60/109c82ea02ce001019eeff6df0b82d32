@@ -1,0 +1,12 @@
+package game.utils;
+
+public class JsonLoader {
+/*
+    private static ObjectMapper mapper = new ObjectMapper();
+
+    public static Tank loadTank(String fileName) throws IOException {
+        InputStream is = JsonLoader.class.getResourceAsStream("/weakspots/" + fileName);
+        return mapper.readValue(is, Tank.class);
+    }
+*/
+}

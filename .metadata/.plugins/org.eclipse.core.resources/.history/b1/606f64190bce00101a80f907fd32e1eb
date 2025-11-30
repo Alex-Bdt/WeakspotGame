@@ -1,0 +1,10 @@
+package game.model;
+
+public class Tank {
+
+	public String getImage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
